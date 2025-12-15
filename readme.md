@@ -1,44 +1,60 @@
-<h1 align="center">Hi 👋, I'm M.Sadegh</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Sadegh Vatankhah</h1>
 
- <h3 align="left">🚀 Backend Developer | Clean Code Enthusiast | Open to New Opportunities</h3>
-I am a backend developer with nearly 3 years of experience in designing and implementing web-based software. I'm passionate about creating innovative solutions and improving software development processes. Always striving to write clean, maintainable code and keeping up with the latest industry trends.
+<h3 align="center">
+Backend Engineer • Asynchronous Systems • Observability • Production-Ready Backend
+</h3>
 
------------------------------------------------------------------------------
+---
 
- <h3 align="left">🛠️ Technologies & Tools</h3>
- 
-**Languages**:  
-JavaScript, TypeScript, Python, SQL  
+### 👋 About Me
 
-**Frameworks**:  
-Node.js, NestJS, Django  
+I'm a Backend Engineer with ~3 years of experience building **reliable, scalable, and observable backend systems**.
+I focus on designing **asynchronous architectures**, **worker-based systems**, and **business-critical backend modules**
+that are safe under concurrency and ready for real-world production workloads.
 
-**Databases**:  
-PostgreSQL, MySQL, MongoDB  
+I enjoy working close to the system core — designing backend infrastructure, improving reliability,
+and making systems easier to operate, extend, and trust.
 
-**DevOps & Monitoring**:  
-Docker, Grafana, Prometheus, Tempo, Loki, OpenTelemetry  
+---
 
-**Version Control**:  
-Git, GitHub  
+### 🧠 What I Work On
 
-**Others**:  
-REST APIs, Microservices, CI/CD  
+- Asynchronous backend architectures using **NestJS** and **Django**
+- Worker-based systems and background processing
+- High-volume data pipelines and internal backend modules
+- Observability-driven development (tracing, metrics, logs)
+- Load testing and performance analysis for backend services
+- Backend systems correctness under concurrent workloads
 
+---
 
------------------------------------------------------------------------------
+### 🛠️ Technologies & Tools
 
- <h3 align="left">📬 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/0msv0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0msv0" height="30" width="40" /></a>
-<a href="https://instagram.com/0msv0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0msv0" height="30" width="40" /></a>
-</p>
+**Languages**  
+TypeScript, JavaScript, Python, SQL
 
------------------------------------------------------------------------------
+**Backend & Frameworks**  
+Node.js, NestJS, Django
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,django,docker,figma,js,ts,nodejs,nestjs,postgres,mysql" />
-  </a>
-</p>
+**Databases & Storage**  
+PostgreSQL, MySQL, MongoDB, Redis, ClickHouse
 
+**Observability & DevOps**  
+OpenTelemetry, Prometheus, Grafana, Tempo, Loki, Docker
+
+**Testing & Performance**  
+k6, Clinic.js
+
+**Version Control**  
+Git, GitHub
+
+---
+
+### 📬 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/0msv0
+- GitHub: https://github.com/0msv0
+
+---
+
+⭐ *Interested in backend systems, architecture discussions, and building reliable software.*
