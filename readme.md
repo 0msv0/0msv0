@@ -53,7 +53,6 @@ Git, GitHub
 ### 📬 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/0msv0
-- GitHub: https://github.com/0msv0
 
 ---
 
